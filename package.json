@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dpbam/food-festival/issues"
   },
-  "homepage": "https://github.com/dpbam/food-festival#readme"
+  "homepage": "https://github.com/dpbam/food-festival#readme",
+  "dependencies": {
+    "mongodb": "^4.1.1"
+  }
 }
