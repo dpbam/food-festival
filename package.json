@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/dpbam/food-festival#readme",
   "dependencies": {
+    "@popperjs/core": "^2.10.1",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.6.0",
     "mongodb": "^4.1.1"
   },
   "devDependencies": {
